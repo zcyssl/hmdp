@@ -33,7 +33,7 @@ public class TestRedis {
 
     @Test
     public void testaddShopToRedis() {
-        // 的撒娇大苏打
+        // 没有一丝
         System.out.println("YYT is gb girl");
         shopService.saveShpoToRedis(1L,1L);
     }
