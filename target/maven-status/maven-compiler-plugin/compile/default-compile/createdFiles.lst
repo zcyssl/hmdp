@@ -1,0 +1,4 @@
+com\hmdp\config\RedissonConfig.class
+com\hmdp\HmDianPingApplication.class
+com\hmdp\config\MybatisConfig.class
+com\hmdp\config\MvcConfig.class
