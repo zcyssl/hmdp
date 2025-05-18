@@ -33,9 +33,7 @@ public class TestRedis {
 
     @Test
     public void testaddShopToRedis() {
-
         System.out.println("YYT is gb girl");
-        System.out.println("zcy is good boy");
         shopService.saveShpoToRedis(1L,1L);
     }
 }
