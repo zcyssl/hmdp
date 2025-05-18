@@ -29,7 +29,7 @@ public class TestRedis {
     public void testRe() {
         Object name = redisTemplate.opsForValue().get("name");
         System.out.println(name);
-    }
+    }   
 
     @Test
     public void testaddShopToRedis() {
