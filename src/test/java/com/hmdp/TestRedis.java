@@ -33,6 +33,8 @@ public class TestRedis {
 
     @Test
     public void testaddShopToRedis() {
+
+        System.out.println("zcyGood");
         shopService.saveShpoToRedis(1L,1L);
     }
 }
